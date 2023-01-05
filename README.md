@@ -1,10 +1,8 @@
 ### Hi there 👋 (No es un saludo, es una nalgada)
 
-Bienvenido al más divertido perfil de desarrollo de videojuegos, aquí los sueños se hacen realidad
+Bienvenido al más divertido perfil de desarrollo de videojuegos, podaras aprenderás Matemáticas, programación y diseño enfocado en videojuegos.
 
-Aquí podaras aprenderás Matemáticas, programación y diseño enfocado en videojuegos
-
-Sigue mis repositorios para hacer los juegos más divertidos de tu cuadra 
+Sigue mis repositorios para hacer los juegos más divertidos de tu cuadra. 🥶
 
 
 ### 🐍 Frikitona 🐍
