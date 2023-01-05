@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+Bienvenido al más divertido perfil de desarrollo de videojuegos, aquí los sueños se hacen realidad
+
+Aquí podaras aprenderás Matemáticas, programación y diseño enfocado en videojuegos
+
+Sigue mis repositorios para hacer los juegos más divertidos de tu cuadra 
+
+
 ### 🐍 Frikitona 🐍
 ![snake gif](https://github.com/roowiki/roowiki/blob/output/github-contribution-grid-snake.gif)
 <!--
