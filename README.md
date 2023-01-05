@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (No es un saludo, es una nalgada)
 
 Bienvenido al más divertido perfil de desarrollo de videojuegos, aquí los sueños se hacen realidad
 
