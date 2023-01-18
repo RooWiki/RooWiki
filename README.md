@@ -1,10 +1,11 @@
 ### Hi there 👋 (No es un saludo, es una nalgada)
 
-Bienvenido al más divertido perfil de desarrollo de videojuegos, podras aprenderás matemáticas, programación y diseño enfocado en videojuegos.
+Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación y diseño enfocado en videojuegos.
 
 Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
 ✅ Sistemas de particulas 
+
 ✅ Herramientas personalizadas de Maya
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://roo-wiki.itch.io/)
