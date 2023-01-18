@@ -1,4 +1,4 @@
-### Hi there 👋 (No es un saludo, es una nalgada)
+### Hi there 👋
 
 Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación y diseño enfocado en videojuegos.
 
