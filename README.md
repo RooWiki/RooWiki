@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación y diseño enfocado en videojuegos.
+Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación, diseño 3D y 2D enfocado en videojuegos.
 
 Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
