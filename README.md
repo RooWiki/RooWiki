@@ -1,7 +1,6 @@
+### Hi there 👋
 
 ![Itch.io](https://media.licdn.com/dms/image/D4E16AQEbouLeaWTmVA/profile-displaybackgroundimage-shrink_350_1400/0/1673567273104?e=1679529600&v=beta&t=YEWY_Ye8wXdI5t59FJiWoCnLqW87PYhGOAGvi14sI0I)
-
-### Hi there 👋
 
 Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación, diseño 3D y 2D enfocado en videojuegos.
 
