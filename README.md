@@ -25,12 +25,14 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-![Itch.io](https://i.postimg.cc/fTQdqQPB/transp.gif)
-![Itch.io](https://i.postimg.cc/Gm8146Ln/transpq.gif)
-![Itch.io](https://i.postimg.cc/qB5bNqzg/qasdasdd.gif)
+
 
 ### 🐍 Frikitona 🐍
 ![snake gif](https://github.com/roowiki/roowiki/blob/output/github-contribution-grid-snake.gif)
+
+![Itch.io](https://i.postimg.cc/fTQdqQPB/transp.gif)
+![Itch.io](https://i.postimg.cc/Gm8146Ln/transpq.gif)
+![Itch.io](https://i.postimg.cc/qB5bNqzg/qasdasdd.gif)
 <!--
 **RooWiki/RooWiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
