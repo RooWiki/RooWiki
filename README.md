@@ -11,8 +11,9 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisarremochi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RooWiki)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/santi857)
-[![Sketchfab](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sketchfab_logo.svg/1920px-Sketchfab_logo.svg.png?20210722112936)](https://sketchfab.com/andrespineros)
-[![Artstation](https://i.postimg.cc/YqZ6xBWj/sass.png)](https://www.artstation.com/roowiki)
+[![Sketchfab](https://i.postimg.cc/2j70k3ms/1.jpg)](https://sketchfab.com/andrespineros)
+[![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)
+
 
 
 ### 🐍 Frikitona 🐍
