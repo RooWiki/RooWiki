@@ -1,3 +1,5 @@
+![Itch.io](https://cdna.artstation.com/p/assets/images/images/058/294/940/large/roo-wiki-dfssdw21wwf.jpg?1673849690)
+
 ### Hi there 👋
 
 Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación y diseño enfocado en videojuegos.
