@@ -32,7 +32,7 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
 ![Itch.io](https://i.postimg.cc/fTQdqQPB/transp.gif)
 ![Itch.io](https://i.postimg.cc/Gm8146Ln/transpq.gif)
-![Itch.io](https://i.postimg.cc/qB5bNqzg/qasdasdd.gif)
+
 <!--
 **RooWiki/RooWiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
