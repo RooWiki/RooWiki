@@ -10,6 +10,23 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
 ✅ Herramientas personalizadas de Maya
 
+
+
+| TECNOLOGÍAS                           | LENGUAJES DE PROGRAMACIÓN   | FLUJO DE TRABAJO  |
+| -------------                         | -------------               | ------------- |
+| •	Unity                               | •	C# (Con énfasis en Unity) | •	Miro |
+| •	Maya (Retopologia, rigging, pesos)  | •	C++                       | •	Trello  |
+| •	Arnold                              | •	Python                    | •	Jira |
+| •	Xgen (Grooming para personajes)     | •	Java                      | •	Documentación técnica  |
+| •	Zbrush                              | •	JavaScript                | •	Game design document  |
+| •	Substance 3d painter - Mari         | •	CSS                       | |
+| •	Illustrator                         | •	HTML                      | |
+| •	Photoshop                           | •	Matlab                    | |
+| •	Marvelous Designer                  |                             | |
+| •	Aseprite                            |                             | |
+| •	Rhinoceros 3D                       |                             | |
+
+
 ![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
 ![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
 
@@ -21,13 +38,6 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/santi857)
 [![Sketchfab](https://i.postimg.cc/2j70k3ms/1.jpg)](https://sketchfab.com/andrespineros)
 [![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)
-
-#### Herramientas de flujo de trabajo
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-
 
 ### 🐍 Frikitona 🐍
 ![snake gif](https://github.com/roowiki/roowiki/blob/output/github-contribution-grid-snake.gif)
