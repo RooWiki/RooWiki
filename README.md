@@ -1,4 +1,5 @@
-![Itch.io](https://cdna.artstation.com/p/assets/images/images/058/294/940/large/roo-wiki-dfssdw21wwf.jpg?1673849690)
+
+![Itch.io](https://media.licdn.com/dms/image/D4E16AQEbouLeaWTmVA/profile-displaybackgroundimage-shrink_350_1400/0/1673567273104?e=1679529600&v=beta&t=YEWY_Ye8wXdI5t59FJiWoCnLqW87PYhGOAGvi14sI0I)
 
 ### Hi there 👋
 
