@@ -11,6 +11,8 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
 ✅ Herramientas personalizadas de Maya
 
+
+
 #### Mi portafolio
 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://roo-wiki.itch.io/)
@@ -18,7 +20,8 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RooWiki)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/santi857)
 [![Sketchfab](https://i.postimg.cc/2j70k3ms/1.jpg)](https://sketchfab.com/andrespineros)
-[![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)
+[![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
+![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
 
 #### Herramientas de flujo de trabajo
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
@@ -30,8 +33,6 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 ### 🐍 Frikitona 🐍
 ![snake gif](https://github.com/roowiki/roowiki/blob/output/github-contribution-grid-snake.gif)
 
-![Itch.io](https://i.postimg.cc/fTQdqQPB/transp.gif)
-![Itch.io](https://i.postimg.cc/Gm8146Ln/transpq.gif)
 
 <!--
 **RooWiki/RooWiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
