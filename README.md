@@ -39,7 +39,7 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 [![Sketchfab](https://i.postimg.cc/2j70k3ms/1.jpg)](https://sketchfab.com/andrespineros)
 [![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)
 
-### 🐍 Frikitona 🐍
+### 🐍 Aportes 🐍
 ![snake gif](https://github.com/roowiki/roowiki/blob/output/github-contribution-grid-snake.gif)
 
 
