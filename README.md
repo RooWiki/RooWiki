@@ -19,7 +19,7 @@ Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 | •	Arnold                              | •	Python                    | •	Jira |
 | •	Xgen (Grooming para personajes)     | •	Java                      | •	Documentación técnica  |
 | •	Zbrush                              | •	JavaScript                | •	Game design document  |
-| •	Substance 3d painter - Mari         | •	CSS                       | |
+| •	Substance 3d painter - Mari         | •	CSS                       | • Github|
 | •	Illustrator                         | •	HTML                      | |
 | •	Photoshop                           | •	Matlab                    | |
 | •	Marvelous Designer                  |                             | |
