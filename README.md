@@ -6,9 +6,9 @@ Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprende
 
 Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
 
-✅ Sistemas de particulas 
-
 ✅ Herramientas personalizadas de Maya
+
+✅ Sistemas de particulas 
 
 
 
