@@ -1,6 +1,6 @@
 ### Hi there 👋 (no es un saludo, es una nalgada)
 
-![Itch.io](https://media.licdn.com/dms/image/D4E16AQEbouLeaWTmVA/profile-displaybackgroundimage-shrink_350_1400/0/1673567273104?e=1679529600&v=beta&t=YEWY_Ye8wXdI5t59FJiWoCnLqW87PYhGOAGvi14sI0I)
+![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
 
 Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación, diseño 3D y 2D enfocado en videojuegos.
 
