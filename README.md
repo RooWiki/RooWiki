@@ -1,4 +1,4 @@
-### Hi there 👋 (no es un saludo, es una nalgada)
+### Hi there 👋
 
 ![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
 
