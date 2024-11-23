@@ -2,29 +2,8 @@
 
 ![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
 
-Bienvenido al perfil más divertido de desarrollo de videojuegos, podras aprenderás matemáticas, programación, diseño 3D y 2D enfocado en videojuegos.
 
-Sigue mis repositorios para hacer los juegos más divertidos de la cuadra. 🥶
-
-✅ Herramientas personalizadas de Maya
-
-✅ Sistemas de particulas 
-
-
-
-| TECNOLOGÍAS                           | LENGUAJES DE PROGRAMACIÓN   | FLUJO DE TRABAJO  |
-| -------------                         | -------------               | ------------- |
-| •	Unity                               | •	C# (Con énfasis en Unity) | •	Miro |
-| •	Maya (Retopologia, rigging, pesos)  | •	C++                       | •	Trello  |
-| •	Arnold                              | •	Python                    | •	Jira |
-| •	Xgen (Grooming para personajes)     | •	Java                      | •	Documentación técnica  |
-| •	Zbrush                              | •	JavaScript                | •	Game design document  |
-| •	Substance 3d painter - Mari         | •	CSS                       | • Github|
-| •	Illustrator                         | •	HTML                      | |
-| •	Photoshop                           | •	Matlab                    | |
-| •	Marvelous Designer                  |                             | |
-| •	Aseprite                            |                             | |
-| •	Rhinoceros 3D                       |                             | |
+Technical Artist | I create custom tools and stylized shaders for video games. Passionate about computer graphics and visual development.
 
 
 ![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
