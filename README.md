@@ -2,8 +2,6 @@
 
 ![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
 
-https://qr.me-qr.com/7Yu89R9S
-
 Technical Artist | I create custom tools and stylized shaders for video games. Passionate about computer graphics and visual development.
 
 
