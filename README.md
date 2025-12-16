@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 ![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
 
