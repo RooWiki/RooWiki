@@ -1,40 +1,46 @@
 # Andrés Piñeros
 
-**Technical Artist · VFX · Tools Developer**
+**Technical Artist | VFX Artist | Tools Developer**
 
-I create artist-friendly tools, real-time VFX, and stylized shaders at the intersection of art and engineering. I work primarily with Unity and Unreal Engine 5, building workflows that help artists create faster and with more control.
+I’m a Multimedia Engineer and Technical Artist based in Montréal. I create tools, shaders, and real-time visual effects that make complex creative workflows feel clear, flexible, and enjoyable for artists.
 
-## Featured Tools
+My work lives between game art and engineering: from stylized materials and Niagara effects to browser-based tools for mesh and VFX creation.
+
+## Projects
 
 ### [Roowiki Mesh Editor](https://roowiki.com/)
 
-A free browser-based 3D mesh editor designed for shader and VFX workflows. It includes more than 74 editable primitives, UV editing, normal and tangent generation, vertex-color authoring, import/export tools, and direct mesh editing.
+A free, browser-based mesh editor made for artists working with shaders and VFX. Roowiki provides 74+ editable primitives alongside UV editing, normal and tangent generation, vertex-color tools, and import/export support.
 
-[Visit Roowiki](https://roowiki.com/) · [Repository](https://github.com/RooWiki)
+[Open Roowiki](https://roowiki.com/) · [GitHub](https://github.com/RooWiki)
 
-### [Circle Editor](https://github.com/RooWiki)
+### Circle Editor
 
-A browser-based editor for designing layered magical circles for real-time VFX. It supports procedural rings, radial elements, layer-based editing, transformations, and high-resolution transparent PNG export for game-engine workflows.
+An in-progress creative tool for building magical-circle designs for real-time VFX. It combines procedural shapes, layer controls, transformations, and transparent high-resolution exports for use in Unreal Engine, Unity, and other workflows.
 
-[Repository](https://github.com/RooWiki)
+[GitHub](https://github.com/RooWiki)
 
-## Technical Art
+### [Stylized Water Shader](https://www.artstation.com/artwork/41XLRW)
 
-I work with Unreal Engine 5—including Niagara, materials, Blueprints, and real-time VFX—and Unity, using URP, Shader Graph, VFX Graph, C#, HLSL, and GLSL. I also enjoy WebGL and Three.js tools that bring technical-art workflows to the browser.
+A real-time stylized water study focused on shape, movement, color, and readable visual direction.
 
-[View my ArtStation portfolio](https://www.artstation.com/artwork/41XLRW)
+[View on ArtStation](https://www.artstation.com/artwork/41XLRW)
 
-## About
+## What I Work With
 
-* Multimedia Engineer focused on Technical Art, VFX, shaders, and tools
-* Based in Montréal, Québec
-* Experienced in Unity, Unreal Engine 5, WebGL, 3D art, and real-time rendering
-* Spanish native; working proficiency in English and French
-* Open to Technical Artist, VFX Artist, and Tools Developer opportunities
+Unreal Engine 5 · Niagara · Materials · Blueprints · Unity · URP · Shader Graph · VFX Graph · HLSL · GLSL · C# · JavaScript · Three.js · WebGL
 
-## Contact
+## Background
 
-[LinkedIn](https://www.linkedin.com/in/andres-pineros/) · [ArtStation](https://www.artstation.com/artwork/41XLRW) · [Roowiki](https://roowiki.com/)
+* Multimedia Engineer, Universidad Militar Nueva Granada
+* Focused on Technical Art, tools, shaders, and real-time VFX
+* Native Spanish speaker, with working English and French
+* Open to opportunities and collaborations in Technical Art, VFX, and tool development
+
+## Find Me
+
+[LinkedIn](https://www.linkedin.com/in/bisarremochi/) · [ArtStation](https://www.artstation.com/roowiki) · [Roowiki](https://roowiki.com/)
+
 
 ![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
 ![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
