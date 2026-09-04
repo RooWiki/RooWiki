@@ -1,4 +1,3 @@
-### Hey 👋
 # Andrés Piñeros
 
 **Technical Artist · VFX · Tools Developer**
