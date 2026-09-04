@@ -39,20 +39,15 @@ Unreal Engine 5 · Niagara · Materials · Blueprints · Unity · URP · Shader 
 
 ## Find Me
 
-[LinkedIn](https://www.linkedin.com/in/bisarremochi/) · [ArtStation](https://www.artstation.com/roowiki) · [Roowiki](https://roowiki.com/)
-
-
-![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
-![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
-
-#### Mi portafolio
-
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://roo-wiki.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisarremochi/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RooWiki)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/santi857)
 [![Sketchfab](https://i.postimg.cc/2j70k3ms/1.jpg)](https://sketchfab.com/andrespineros)
 [![Artstation](https://i.postimg.cc/k46dr8kP/sass.png)](https://www.artstation.com/roowiki)
+[Roowiki](https://roowiki.com/)
+
+![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
+![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
 
 
 
