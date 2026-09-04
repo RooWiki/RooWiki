@@ -1,9 +1,41 @@
 ### Hey 👋
+# Andrés Piñeros
 
-![Itch.io](https://img.itch.zone/aW1nLzExMzY2NzczLnBuZw==/original/yZ9O8B.png)
+**Technical Artist · VFX · Tools Developer**
 
-Technical Artist | I create custom tools and stylized shaders for video games. Passionate about computer graphics and visual development.
+I create artist-friendly tools, real-time VFX, and stylized shaders at the intersection of art and engineering. I work primarily with Unity and Unreal Engine 5, building workflows that help artists create faster and with more control.
 
+## Featured Tools
+
+### [Roowiki Mesh Editor](https://roowiki.com/)
+
+A free browser-based 3D mesh editor designed for shader and VFX workflows. It includes more than 74 editable primitives, UV editing, normal and tangent generation, vertex-color authoring, import/export tools, and direct mesh editing.
+
+[Visit Roowiki](https://roowiki.com/) · [Repository](https://github.com/RooWiki)
+
+### [Circle Editor](https://github.com/RooWiki)
+
+A browser-based editor for designing layered magical circles for real-time VFX. It supports procedural rings, radial elements, layer-based editing, transformations, and high-resolution transparent PNG export for game-engine workflows.
+
+[Repository](https://github.com/RooWiki)
+
+## Technical Art
+
+I work with Unreal Engine 5—including Niagara, materials, Blueprints, and real-time VFX—and Unity, using URP, Shader Graph, VFX Graph, C#, HLSL, and GLSL. I also enjoy WebGL and Three.js tools that bring technical-art workflows to the browser.
+
+[View my ArtStation portfolio](https://www.artstation.com/artwork/41XLRW)
+
+## About
+
+* Multimedia Engineer focused on Technical Art, VFX, shaders, and tools
+* Based in Montréal, Québec
+* Experienced in Unity, Unreal Engine 5, WebGL, 3D art, and real-time rendering
+* Spanish native; working proficiency in English and French
+* Open to Technical Artist, VFX Artist, and Tools Developer opportunities
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/andres-pineros/) · [ArtStation](https://www.artstation.com/artwork/41XLRW) · [Roowiki](https://roowiki.com/)
 
 ![Itch.io](https://i.postimg.cc/g28mM1fq/1.gif)
 ![Itch.io](https://i.postimg.cc/3NqY6h89/Triangulo-Caminado.gif)
